@@ -1,0 +1,1636 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+</style>
+
+<h2>2018년도 지역별 교통안전지수(전국 기초자치단체)</h2>
+<table>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			<th colspan="2">시군구</th>
+     		<th>안전지수</th>
+     		<th>순위</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+        <tr>
+        	<td>전북          </td>
+        	<td>장수군        </td>
+        	<td>85.2</td>
+        	<td>1</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>봉화군        </td>
+        	<td>84.8</td>
+        	<td>2</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>계룡시        </td>
+        	<td>84.8</td>
+        	<td>3</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>임실군        </td>
+        	<td>84.7</td>
+        	<td>4</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>양구군        </td>
+        	<td>84.4</td>
+        	<td>5</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>단양군        </td>
+        	<td>84.3</td>
+        	<td>6</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>곡성군        </td>
+        	<td>84.2</td>
+        	<td>7</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>진안군        </td>
+        	<td>84.2</td>
+        	<td>7</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>홍천군        </td>
+        	<td>84.2</td>
+        	<td>9</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>강화군        </td>
+        	<td>84.1</td>
+        	<td>10</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>철원군        </td>
+        	<td>84.1</td>
+        	<td>11</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>영양군        </td>
+        	<td>84.1</td>
+        	<td>11</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>증평군        </td>
+        	<td>84.1</td>
+        	<td>13</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>순창군        </td>
+        	<td>84</td>
+        	<td>14</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>삼척시        </td>
+        	<td>83.9</td>
+        	<td>15</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>동구          </td>
+        	<td>83.8</td>
+        	<td>16</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>영동군        </td>
+        	<td>83.8</td>
+        	<td>17</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>함평군        </td>
+        	<td>83.7</td>
+        	<td>18</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>진도군        </td>
+        	<td>83.7</td>
+        	<td>19</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>보은군        </td>
+        	<td>83.6</td>
+        	<td>20</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>동해시        </td>
+        	<td>83.5</td>
+        	<td>21</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>구례군        </td>
+        	<td>83.4</td>
+        	<td>22</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>신안군        </td>
+        	<td>83.4</td>
+        	<td>23</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>기장군        </td>
+        	<td>83.3</td>
+        	<td>24</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>정선군        </td>
+        	<td>83.2</td>
+        	<td>25</td>
+        </tr>
+     	
+        <tr>
+        	<td>광주          </td>
+        	<td>동구          </td>
+        	<td>83.1</td>
+        	<td>26</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>괴산군        </td>
+        	<td>83.1</td>
+        	<td>27</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>장성군        </td>
+        	<td>83.1</td>
+        	<td>28</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>성주군        </td>
+        	<td>83</td>
+        	<td>29</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>횡성군        </td>
+        	<td>83</td>
+        	<td>30</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>광양시        </td>
+        	<td>82.9</td>
+        	<td>31</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>의령군        </td>
+        	<td>82.9</td>
+        	<td>32</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>금산군        </td>
+        	<td>82.9</td>
+        	<td>33</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>옥천군        </td>
+        	<td>82.9</td>
+        	<td>34</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>거창군        </td>
+        	<td>82.8</td>
+        	<td>35</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>화천군        </td>
+        	<td>82.8</td>
+        	<td>36</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>하동군        </td>
+        	<td>82.8</td>
+        	<td>38</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>과천시        </td>
+        	<td>82.8</td>
+        	<td>37</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>영주시        </td>
+        	<td>82.7</td>
+        	<td>40</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>문경시        </td>
+        	<td>82.7</td>
+        	<td>39</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>거제시        </td>
+        	<td>82.7</td>
+        	<td>40</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>청송군        </td>
+        	<td>82.6</td>
+        	<td>42</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>의왕시        </td>
+        	<td>82.6</td>
+        	<td>43</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>군위군        </td>
+        	<td>82.5</td>
+        	<td>44</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>합천군        </td>
+        	<td>82.3</td>
+        	<td>45</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>김천시        </td>
+        	<td>82.3</td>
+        	<td>45</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>속초시        </td>
+        	<td>82.3</td>
+        	<td>47</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>울진군        </td>
+        	<td>82.2</td>
+        	<td>49</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>남해군        </td>
+        	<td>82.2</td>
+        	<td>48</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>태백시        </td>
+        	<td>82.2</td>
+        	<td>50</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>영덕군        </td>
+        	<td>82.2</td>
+        	<td>50</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>보령시        </td>
+        	<td>82.1</td>
+        	<td>52</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>수영구        </td>
+        	<td>82.1</td>
+        	<td>53</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>영월군        </td>
+        	<td>82</td>
+        	<td>54</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>완도군        </td>
+        	<td>82</td>
+        	<td>54</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>중구          </td>
+        	<td>82</td>
+        	<td>56</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>금천구        </td>
+        	<td>81.9</td>
+        	<td>58</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>연천군        </td>
+        	<td>81.9</td>
+        	<td>57</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>동두천시      </td>
+        	<td>81.9</td>
+        	<td>60</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>밀양시        </td>
+        	<td>81.9</td>
+        	<td>59</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>예천군        </td>
+        	<td>81.8</td>
+        	<td>65</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>고성군        </td>
+        	<td>81.8</td>
+        	<td>66</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>북구          </td>
+        	<td>81.8</td>
+        	<td>64</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>양천구        </td>
+        	<td>81.8</td>
+        	<td>62</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>고흥군        </td>
+        	<td>81.8</td>
+        	<td>62</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>부안군        </td>
+        	<td>81.8</td>
+        	<td>61</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>통영시        </td>
+        	<td>81.8</td>
+        	<td>67</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>영도구        </td>
+        	<td>81.8</td>
+        	<td>69</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>양양군        </td>
+        	<td>81.8</td>
+        	<td>67</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>함양군        </td>
+        	<td>81.7</td>
+        	<td>70</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>부평구        </td>
+        	<td>81.7</td>
+        	<td>71</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>사천시        </td>
+        	<td>81.6</td>
+        	<td>72</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>금정구        </td>
+        	<td>81.6</td>
+        	<td>73</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>강서구        </td>
+        	<td>81.6</td>
+        	<td>73</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>성동구        </td>
+        	<td>81.6</td>
+        	<td>76</td>
+        </tr>
+     	
+        <tr>
+        	<td>울산          </td>
+        	<td>동구          </td>
+        	<td>81.6</td>
+        	<td>73</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>서대문구      </td>
+        	<td>81.6</td>
+        	<td>77</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>서구          </td>
+        	<td>81.5</td>
+        	<td>78</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>의성군        </td>
+        	<td>81.5</td>
+        	<td>78</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>사하구        </td>
+        	<td>81.5</td>
+        	<td>80</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>양평군        </td>
+        	<td>81.4</td>
+        	<td>82</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>고령군        </td>
+        	<td>81.4</td>
+        	<td>82</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>군포시        </td>
+        	<td>81.4</td>
+        	<td>81</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>인제군        </td>
+        	<td>81.4</td>
+        	<td>84</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>도봉구        </td>
+        	<td>81.3</td>
+        	<td>85</td>
+        </tr>
+     	
+        <tr>
+        	<td>울산          </td>
+        	<td>울주군        </td>
+        	<td>81.3</td>
+        	<td>85</td>
+        </tr>
+     	
+        <tr>
+        	<td>울산          </td>
+        	<td>중구          </td>
+        	<td>81.3</td>
+        	<td>87</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>해운대구      </td>
+        	<td>81.2</td>
+        	<td>90</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>남구          </td>
+        	<td>81.2</td>
+        	<td>89</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>청도군        </td>
+        	<td>81.2</td>
+        	<td>88</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>창녕군        </td>
+        	<td>81.2</td>
+        	<td>91</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>연수구        </td>
+        	<td>81.1</td>
+        	<td>92</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>남동구        </td>
+        	<td>81.1</td>
+        	<td>92</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>달성군        </td>
+        	<td>81.1</td>
+        	<td>94</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>산청군        </td>
+        	<td>81.1</td>
+        	<td>94</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>양산시        </td>
+        	<td>81.1</td>
+        	<td>96</td>
+        </tr>
+     	
+        <tr>
+        	<td>광주          </td>
+        	<td>남구          </td>
+        	<td>81.1</td>
+        	<td>97</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>해남군        </td>
+        	<td>81.1</td>
+        	<td>98</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>영천시        </td>
+        	<td>81.1</td>
+        	<td>99</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>가평군        </td>
+        	<td>81.1</td>
+        	<td>100</td>
+        </tr>
+     	
+        <tr>
+        	<td>대전          </td>
+        	<td>대덕구        </td>
+        	<td>81</td>
+        	<td>101</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>무주군        </td>
+        	<td>80.9</td>
+        	<td>102</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>남구          </td>
+        	<td>80.8</td>
+        	<td>103</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>이천시        </td>
+        	<td>80.8</td>
+        	<td>104</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>광진구        </td>
+        	<td>80.8</td>
+        	<td>104</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>포천시        </td>
+        	<td>80.7</td>
+        	<td>106</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>화순군        </td>
+        	<td>80.7</td>
+        	<td>106</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>미추홀구      </td>
+        	<td>80.7</td>
+        	<td>109</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>진주시        </td>
+        	<td>80.7</td>
+        	<td>108</td>
+        </tr>
+     	
+        <tr>
+        	<td>울산          </td>
+        	<td>북구          </td>
+        	<td>80.6</td>
+        	<td>110</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>칠곡군        </td>
+        	<td>80.5</td>
+        	<td>111</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>여주시        </td>
+        	<td>80.5</td>
+        	<td>112</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>계양구        </td>
+        	<td>80.4</td>
+        	<td>113</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>영광군        </td>
+        	<td>80.4</td>
+        	<td>114</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>서구          </td>
+        	<td>80.3</td>
+        	<td>115</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>은평구        </td>
+        	<td>80.3</td>
+        	<td>116</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>원주시        </td>
+        	<td>80.2</td>
+        	<td>118</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>무안군        </td>
+        	<td>80.2</td>
+        	<td>118</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>장흥군        </td>
+        	<td>80.2</td>
+        	<td>117</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>평창군        </td>
+        	<td>80.2</td>
+        	<td>120</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>태안군        </td>
+        	<td>80.2</td>
+        	<td>121</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>동구          </td>
+        	<td>80.1</td>
+        	<td>122</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>성북구        </td>
+        	<td>80</td>
+        	<td>123</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>양주시        </td>
+        	<td>80</td>
+        	<td>124</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>서천군        </td>
+        	<td>80</td>
+        	<td>125</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>완주군        </td>
+        	<td>80</td>
+        	<td>125</td>
+        </tr>
+     	
+        <tr>
+        	<td>대전          </td>
+        	<td>중구          </td>
+        	<td>79.9</td>
+        	<td>127</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>진천군        </td>
+        	<td>79.8</td>
+        	<td>129</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>연제구        </td>
+        	<td>79.8</td>
+        	<td>128</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>관악구        </td>
+        	<td>79.8</td>
+        	<td>130</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>동래구        </td>
+        	<td>79.6</td>
+        	<td>132</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>강릉시        </td>
+        	<td>79.6</td>
+        	<td>132</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>강서구        </td>
+        	<td>79.6</td>
+        	<td>131</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>정읍시        </td>
+        	<td>79.6</td>
+        	<td>134</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>안동시        </td>
+        	<td>79.6</td>
+        	<td>135</td>
+        </tr>
+     	
+        <tr>
+        	<td>인천          </td>
+        	<td>중구          </td>
+        	<td>79.5</td>
+        	<td>136</td>
+        </tr>
+     	
+        <tr>
+        	<td>강원          </td>
+        	<td>춘천시        </td>
+        	<td>79.5</td>
+        	<td>137</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>충주시        </td>
+        	<td>79.5</td>
+        	<td>138</td>
+        </tr>
+     	
+        <tr>
+        	<td>세종          </td>
+        	<td>세종          </td>
+        	<td>79.4</td>
+        	<td>139</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>마포구        </td>
+        	<td>79.3</td>
+        	<td>140</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>강동구        </td>
+        	<td>79.3</td>
+        	<td>141</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>공주시        </td>
+        	<td>79.1</td>
+        	<td>142</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>노원구        </td>
+        	<td>78.8</td>
+        	<td>143</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>영암군        </td>
+        	<td>78.8</td>
+        	<td>144</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>안양시        </td>
+        	<td>78.7</td>
+        	<td>145</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>파주시        </td>
+        	<td>78.5</td>
+        	<td>146</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>익산시        </td>
+        	<td>78.4</td>
+        	<td>147</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>담양군        </td>
+        	<td>78.4</td>
+        	<td>148</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>광명시        </td>
+        	<td>78.4</td>
+        	<td>149</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>보성군        </td>
+        	<td>78.3</td>
+        	<td>150</td>
+        </tr>
+     	
+        <tr>
+        	<td>대전          </td>
+        	<td>유성구        </td>
+        	<td>78.2</td>
+        	<td>151</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>강진군        </td>
+        	<td>78.2</td>
+        	<td>152</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>의정부시      </td>
+        	<td>78.1</td>
+        	<td>153</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>나주시        </td>
+        	<td>78</td>
+        	<td>154</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>고창군        </td>
+        	<td>77.9</td>
+        	<td>155</td>
+        </tr>
+     	
+        <tr>
+        	<td>광주          </td>
+        	<td>서구          </td>
+        	<td>77.9</td>
+        	<td>156</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>중랑구        </td>
+        	<td>77.9</td>
+        	<td>157</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>제천시        </td>
+        	<td>77.8</td>
+        	<td>158</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>순천시        </td>
+        	<td>77.7</td>
+        	<td>159</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>종로구        </td>
+        	<td>77.7</td>
+        	<td>161</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>용산구        </td>
+        	<td>77.7</td>
+        	<td>160</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>광주시        </td>
+        	<td>77.6</td>
+        	<td>162</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>음성군        </td>
+        	<td>77.6</td>
+        	<td>163</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>목포시        </td>
+        	<td>77.5</td>
+        	<td>164</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>동작구        </td>
+        	<td>77.5</td>
+        	<td>165</td>
+        </tr>
+     	
+        <tr>
+        	<td>울산          </td>
+        	<td>남구          </td>
+        	<td>77.3</td>
+        	<td>166</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>오산시        </td>
+        	<td>77.3</td>
+        	<td>167</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>동구          </td>
+        	<td>77.2</td>
+        	<td>168</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>군산시        </td>
+        	<td>77.2</td>
+        	<td>168</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>하남시        </td>
+        	<td>77.2</td>
+        	<td>170</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>안성시        </td>
+        	<td>77.1</td>
+        	<td>171</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>예산군        </td>
+        	<td>77.1</td>
+        	<td>172</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>논산시        </td>
+        	<td>77</td>
+        	<td>173</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>고성군        </td>
+        	<td>76.9</td>
+        	<td>174</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>구로구        </td>
+        	<td>76.6</td>
+        	<td>175</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>구리시        </td>
+        	<td>76.6</td>
+        	<td>176</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>강북구        </td>
+        	<td>76.1</td>
+        	<td>177</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>수성구        </td>
+        	<td>76.1</td>
+        	<td>179</td>
+        </tr>
+     	
+        <tr>
+        	<td>광주          </td>
+        	<td>광산구        </td>
+        	<td>76.1</td>
+        	<td>178</td>
+        </tr>
+     	
+        <tr>
+        	<td>대전          </td>
+        	<td>동구          </td>
+        	<td>76</td>
+        	<td>180</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>청양군        </td>
+        	<td>76</td>
+        	<td>181</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>부여군        </td>
+        	<td>75.9</td>
+        	<td>182</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>사상구        </td>
+        	<td>75.9</td>
+        	<td>183</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>경산시        </td>
+        	<td>75.8</td>
+        	<td>184</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>남원시        </td>
+        	<td>75.7</td>
+        	<td>185</td>
+        </tr>
+     	
+        <tr>
+        	<td>대전          </td>
+        	<td>서구          </td>
+        	<td>75.6</td>
+        	<td>186</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>함안군        </td>
+        	<td>75.4</td>
+        	<td>187</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>아산시        </td>
+        	<td>75.3</td>
+        	<td>188</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>중구          </td>
+        	<td>75.3</td>
+        	<td>189</td>
+        </tr>
+     	
+        <tr>
+        	<td>광주          </td>
+        	<td>북구          </td>
+        	<td>75.2</td>
+        	<td>190</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>서초구        </td>
+        	<td>75.1</td>
+        	<td>191</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>동대문구      </td>
+        	<td>75</td>
+        	<td>192</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>김해시        </td>
+        	<td>75</td>
+        	<td>193</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>시흥시        </td>
+        	<td>74.8</td>
+        	<td>194</td>
+        </tr>
+     	
+        <tr>
+        	<td>전남          </td>
+        	<td>여수시        </td>
+        	<td>74.7</td>
+        	<td>195</td>
+        </tr>
+     	
+        <tr>
+        	<td>제주          </td>
+        	<td>제주시        </td>
+        	<td>74.6</td>
+        	<td>196</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>전주시        </td>
+        	<td>74.4</td>
+        	<td>197</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>달서구        </td>
+        	<td>74.2</td>
+        	<td>198</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>서구          </td>
+        	<td>73.9</td>
+        	<td>199</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>부천시        </td>
+        	<td>73.9</td>
+        	<td>200</td>
+        </tr>
+     	
+        <tr>
+        	<td>전북          </td>
+        	<td>김제시        </td>
+        	<td>73.7</td>
+        	<td>201</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>구미시        </td>
+        	<td>73.7</td>
+        	<td>202</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>상주시        </td>
+        	<td>73.6</td>
+        	<td>203</td>
+        </tr>
+     	
+        <tr>
+        	<td>대구          </td>
+        	<td>북구          </td>
+        	<td>73</td>
+        	<td>204</td>
+        </tr>
+     	
+        <tr>
+        	<td>부산          </td>
+        	<td>부산진구      </td>
+        	<td>73</td>
+        	<td>205</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>당진시        </td>
+        	<td>72.3</td>
+        	<td>206</td>
+        </tr>
+     	
+        <tr>
+        	<td>제주          </td>
+        	<td>서귀포시      </td>
+        	<td>72.3</td>
+        	<td>207</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>홍성군        </td>
+        	<td>72</td>
+        	<td>208</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>중구          </td>
+        	<td>71.1</td>
+        	<td>209</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>성남시        </td>
+        	<td>70.8</td>
+        	<td>210</td>
+        </tr>
+     	
+        <tr>
+        	<td>경남          </td>
+        	<td>창원시(통합)  </td>
+        	<td>70.7</td>
+        	<td>211</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>고양시        </td>
+        	<td>70.6</td>
+        	<td>212</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>송파구        </td>
+        	<td>70.3</td>
+        	<td>213</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>용인시        </td>
+        	<td>70.3</td>
+        	<td>214</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>서산시        </td>
+        	<td>69.6</td>
+        	<td>215</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>김포시        </td>
+        	<td>68.6</td>
+        	<td>216</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>강남구        </td>
+        	<td>68.5</td>
+        	<td>217</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>화성시        </td>
+        	<td>68.5</td>
+        	<td>218</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>안산시        </td>
+        	<td>68.2</td>
+        	<td>219</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>남양주시      </td>
+        	<td>67.5</td>
+        	<td>220</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>경주시        </td>
+        	<td>67.1</td>
+        	<td>221</td>
+        </tr>
+     	
+        <tr>
+        	<td>서울          </td>
+        	<td>영등포구      </td>
+        	<td>67</td>
+        	<td>222</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>수원시        </td>
+        	<td>66.7</td>
+        	<td>223</td>
+        </tr>
+     	
+        <tr>
+        	<td>충남          </td>
+        	<td>천안시        </td>
+        	<td>65.5</td>
+        	<td>224</td>
+        </tr>
+     	
+        <tr>
+        	<td>경북          </td>
+        	<td>포항시        </td>
+        	<td>64.2</td>
+        	<td>225</td>
+        </tr>
+     	
+        <tr>
+        	<td>경기          </td>
+        	<td>평택시        </td>
+        	<td>63.5</td>
+        	<td>226</td>
+        </tr>
+     	
+        <tr>
+        	<td>충북          </td>
+        	<td>청주시        </td>
+        	<td>57.5</td>
+        	<td>227</td>
+        </tr>
+     	
+	</tbody>
+</table>
+
+</body>
+</html>
