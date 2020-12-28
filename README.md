@@ -1,4 +1,4 @@
-#  데이터 분석 경진대회
+#  데이터분석 경진대회
 ---
 ###  Kaggle
 - [Titanic - Machine Learning from Disaster](https://google.com, "Titanic")
